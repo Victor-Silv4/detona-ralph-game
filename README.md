@@ -1,4 +1,4 @@
-Hit the Enemy
+###Hit the Enemy
 
 Um jogo simples desenvolvido em JavaScript, HTML e CSS, onde o objetivo é acertar o "inimigo" em uma grade de quadrados antes que o tempo acabe ou as vidas se esgotem. O jogador deve clicar no quadrado correto sempre que o inimigo aparece em uma posição aleatória.
 
